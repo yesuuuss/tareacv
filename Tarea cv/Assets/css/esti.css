@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #c0b9b9;
+}
+
+h3{
+    color: #007bff;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.sidebar {
+    background-color: #e9ecef;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.left {
+    left: 0;
+    text-align: right;
+}
+
+.right {
+    left: 55%;
+}
+
+.skills img {
+    max-width: 50px;
+    margin: 10px;
+}
+
+.languages img {
+    max-width: 60px;
+    margin: 10px;
+}
+
+.section-title {
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+.centered-text {
+    text-align: center;
+    margin-top: 20px;
+}
